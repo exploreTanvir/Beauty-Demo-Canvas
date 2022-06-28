@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #222E2B;
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+
+.col-lg-12{
+        background-image: url(./img/bg01.png);
+        background-size: cover;
+        background-position: center;
+        width: 1380px;
+        height: 480px;
+    }
+    .card img {
+        height: 270px;
+    }
+    .last-section {
+        background-image: url(./img/nailpolish.png);
+        background-position: center;
+        background-size: cover;
+    }
